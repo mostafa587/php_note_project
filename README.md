@@ -43,4 +43,4 @@ The application requires a MySQL database with the following structure:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/php_note_project.git
+git clone https://github.com/mostafa587/php_note_project.git
